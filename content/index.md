@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to NUS QCC Quantum Notes Repo
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is the notes database of [NUS QCC](localhost:3000). Feel free to use it to explore the world of quantum with us!
